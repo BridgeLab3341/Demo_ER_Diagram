@@ -1,4 +1,4 @@
-Create Database Demo_ER_Diagram
+Create DataBase Demo_ER_Daigram
 
 --1. Create COUNTRY Table
 Create Table COUNTRY(CountryId Int Identity Primary Key,
